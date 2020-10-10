@@ -1,5 +1,5 @@
 #include <linux/kernel.h>
-#include <sys/utsname.h>
+#include <linux/utsname.h>
 
 asmlinkage long CallSO(void)
 {
